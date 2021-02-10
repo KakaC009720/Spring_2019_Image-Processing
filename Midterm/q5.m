@@ -1,0 +1,1 @@
+imshow(imfilter(y,d2,'symmetric'));
